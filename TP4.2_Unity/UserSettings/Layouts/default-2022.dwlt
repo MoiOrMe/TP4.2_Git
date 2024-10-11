@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1521.6
     height: 854.4
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 560.8
     height: 804.4
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 237.6
     height: 475.2
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -322,9 +322,9 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 1
+    m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Samples/XR Interaction Toolkit/2.6.3/Starter Assets/Prefabs/Controllers
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -332,16 +332,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Samples/XR Interaction Toolkit/2.6.3/Starter Assets/Prefabs/Controllers
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\robin\Documents\Cours\OO\TP4.2\TP4.2_Git\TP4.2_Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 48650000
-    m_LastClickedID: 25928
-    m_ExpandedIDs: 0000000048650000966500009c650000b2650000b4650000b6650000b865000010660000226600003266000034660000b0660000b466000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 120}
+    m_SelectedIDs: 9a7f0000
+    m_LastClickedID: 32666
+    m_ExpandedIDs: 000000005065000056650000586500005e65000060650000626500006465000066650000ae650000b0650000fc650000fe65000000660000026600001e660000246600002666000028660000366600003a66000050660000526600005466000056660000586600005a6600005c6600006a66000082660000846600008666000096660000a4660000b0660000b4660000b6660000ea6e0000ee6e0000f26e0000066f0000467f00006a7f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -369,7 +369,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000048650000
+    m_ExpandedIDs: ffffffff0000000050650000526500005465000056650000586500005a6500005c6500005e6500006065000062650000646500006665000068650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -396,7 +396,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -509,9 +509,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc640000
-      m_LastClickedID: 25820
-      m_ExpandedIDs: 26fbffff126500001a650000
+      m_SelectedIDs: 1a650000
+      m_LastClickedID: 25882
+      m_ExpandedIDs: 26fbffffe0640000fc6400001a65000022650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -850,7 +850,7 @@ MonoBehaviour:
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/TrailRenderer
-      index: 7
+      index: 8
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -863,7 +863,7 @@ MonoBehaviour:
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: XR Building Blocks
-      index: 8
+      index: 9
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -891,9 +891,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.7921888, y: -0.1391329, z: 8.507163}
+    m_Target: {x: -0.55002534, y: 0.45436138, z: -0.19913562}
     speed: 2
-    m_Value: {x: 1.7921888, y: -0.1391329, z: 8.507163}
+    m_Value: {x: -0.55002534, y: 0.45436138, z: -0.19913562}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -939,13 +939,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.012646194, y: -0.91193354, z: 0.40922478, w: -0.028182164}
+    m_Target: {x: 0.04981627, y: -0.92678356, z: 0.13269044, w: 0.34789672}
     speed: 2
-    m_Value: {x: -0.01264593, y: -0.9119145, z: 0.40921625, w: -0.028181575}
+    m_Value: {x: 0.04981507, y: -0.92676127, z: 0.13268726, w: 0.34788835}
   m_Size:
-    m_Target: 12.124355
+    m_Target: 3.1184516
     speed: 2
-    m_Value: 12.124355
+    m_Value: 3.1184516
   m_Ortho:
     m_Target: 0
     speed: 2
